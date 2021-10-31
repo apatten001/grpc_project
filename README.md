@@ -1,6 +1,6 @@
 # grpc_project
 
-###Python >3.5 should be installed before running this project. 
+### Python > 3.5 should be installed before running this project. 
 
 ## Steps to setup the project to output the output.txt file
 
