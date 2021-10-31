@@ -1,0 +1,2 @@
+{'id': 1, 'recv': [{'interface': 'query', 'result': 'success', 'money': 570}]}
+{'id': 2, 'recv': [{'interface': 'deposit', 'result': 'success'}, {'interface': 'query', 'result': 'success', 'money': 570}]}
